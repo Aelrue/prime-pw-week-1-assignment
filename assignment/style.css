@@ -9,3 +9,21 @@
 /* Put a border around your image */
 
 /* Change the font-family of your list */
+body {
+  background-color: #257f89;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  text-align: center;
+}
+h1 {
+  color: #254d89;
+  text-align: center;
+}
+ul {
+  color: #d0e4e6;
+}
+p {
+  color: #d0d9e6;
+  font-style: italic;
+  text-align: center;
+}
