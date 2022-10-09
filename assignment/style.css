@@ -13,7 +13,12 @@ body {
   background-color: #257f89;
   font-family: "Courier New", Courier, monospace;
   font-weight: bold;
-  text-align: center;
+  margin: 5% 5%;
+}
+img {
+  margin: auto;
+  display: block;
+  border: 10px solid #254d89;
 }
 h1 {
   color: #254d89;
@@ -21,6 +26,7 @@ h1 {
 }
 ul {
   color: #d0e4e6;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 p {
   color: #d0d9e6;
